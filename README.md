@@ -1,7 +1,7 @@
 # smart-home
 Implementation of Internet of Things as a Smart Home using NodeMCU/ESP8266 module
 
-This repo contains th earduino IDE code for smart-home and a project report.
+This repo contains the Arduino IDE code for Smart Home using ESP8266 and Blynk.
 Features of this smart home are:
   Control of lights and fan from smartphone.
   If temperature greater than 30`C, fans automatically switches on.
